@@ -41,6 +41,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I wear glasses.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Shete&layout=compact&theme=chartreuse-dark)](https://github.com/Parth-Shete/github-readme-stats)
-
 
