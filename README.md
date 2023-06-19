@@ -1,19 +1,14 @@
 ### Hi there 👋
 
-<!--
-**MRohit1953/MRohit1953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on building up my programming fundamentals/background.
+- 🌱 I’m currently learning Data Structures and Algorithms.
+- 👯 I’m looking to collaborate on Open Source projects.
+- 🤔 I’m looking for help with building my audience on LinkedIn.
+- 💬 Ask me about C and Python programming languages.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/parth-shete-8b2530201/), [Instagram](https://www.instagram.com/parthshete02/), [Twitter](https://twitter.com/shete_parth), [Facebook](https://www.facebook.com/parth.shete.712/) 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I wear glasses.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -28,17 +23,4 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-### Hi there 👋
-
-- 🔭 I’m currently working on building up my programming fundamentals/background.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on Open Source projects.
-- 🤔 I’m looking for help with building my audience on LinkedIn.
-- 💬 Ask me about C and Python programming languages.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/parth-shete-8b2530201/), [Instagram](https://www.instagram.com/parthshete02/), [Twitter](https://twitter.com/shete_parth), [Facebook](https://www.facebook.com/parth.shete.712/) 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I wear glasses.
-
-
 
