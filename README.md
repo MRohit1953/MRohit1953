@@ -2,10 +2,9 @@
 
 - 🔭 I’m currently working on building up my programming fundamentals/background.
 - 🌱 I’m currently learning Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on Open Source projects.
 - 🤔 I’m looking for help with building my audience on LinkedIn.
-- 💬 Ask me about C and Python programming languages.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohit-magar-5833b61bb/), [Instagram](https://www.instagram.com/magarrohit1953/), [Twitter](https://twitter.com/MRohit1953)
+- 💬 Ask me about C++ and Python .
+- 📫 You can reach me on : [LinkedIn](https://www.linkedin.com/in/rohit-magar-5833b61bb/), [Instagram](https://www.instagram.com/magarrohit1953/), [Twitter](https://twitter.com/MRohit1953)
 
 
 <b>Languages and Tools:</b>
