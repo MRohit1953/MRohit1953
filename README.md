@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I wear glasses.
 
-![](https://github-readme-stats.vercel.app/api?username=Parth-Shete&show_icons=true&theme=vision-friendly-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Shete&layout=compact&theme=chartreuse-dark)](https://github.com/Parth-Shete/github-readme-stats)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
